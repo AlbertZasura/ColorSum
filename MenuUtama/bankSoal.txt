@@ -1,0 +1,119 @@
+2 +;2 =;biru;merah;
+1;ungu;		
+4;ungu;		
+3;hijau;	
+4;ungu;		
+|		
+2 +;3 =;kuning;merah;	
+5;orange;
+4;hijau;
+3;orange;
+5;orange;
+|
+5 +;2 =;biru;kuning;
+1;ungu;
+3;hijau;
+7;hijau;
+7;hijau;
+|
+1 +;2 =;merah;biru;
+6;ungu;
+10;hijau;
+3;ungu;
+3;ungu;
+|
+4 +;2 =;merah;kuning;
+1;biru;
+6;orange;
+3;hijau;
+6;orange;
+|
+1 +;1 =;kuning;biru;
+3;ungu;
+2;green;
+0;orange;
+2;green;
+|
+8 +;2 =;biru;merah;
+10;ungu;
+4;hijau;
+6;orange;
+10;ungu;
+|
+10 +;2 =;kuning;merah;
+12;orange;
+0;ungu;
+8;hijau;
+12;orange;
+|
+5 +;3 =;biru;kuning;
+1;merah;
+8;hijau;
+4;ungu;
+8;hijau;
+|
+7 +;2 =;merah;biru;
+9;ungu;
+4;orange;
+5;hijau;
+9;ungu;
+|
+5 +;6 =;merah;kuning;
+11;orange;
+14;hijau;
+13;ungu;
+11;orange;
+|
+1 +;6 =;kuning;biru;
+2;orange;
+4;ungu;
+7;hijau;
+7;hijau;
+|
+3 +;3 =;biru;merah;
+2;orange;
+3;hijau;
+6;ungu;
+6;ungu;
+|
+7 +;8 =;kuning;merah;
+15;orange;
+16;hijau;
+13;ungu;
+15;orange;
+|
+4 +;9 =;merah;biru;
+13;ungu;
+15;ungu;
+12;hijau;
+13;ungu;
+|
+4 +;5 =;merah;kuning;
+11;orange;
+12;hijau;
+9;orange;
+9;orange;
+|
+8 +;9 =;biru;kuning;
+15;ungu;
+17;hijau;
+19;orange;
+17;hijau;
+|
+17 +;28 =;kuning;merah;
+42;ungu;
+45;orange;
+33;hijau;
+45;orange;
+|
+19 +;17 =;biru;merah;
+28;hijau;
+33;ungu;
+36;ungu;
+36;ungu;
+|
+29 +;11 =;kuning;biru;
+40;hijau;
+30;ungu;
+31;orange;
+40;hijau;
