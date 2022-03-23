@@ -2,9 +2,9 @@
 
 This repository is used for ***Multimedia Systems*** Project. We use Construct 2 Software to create the game.
 
-# This Project is just a College Project.
+## This Project is just a College Project.
 
-# Author Lists:
+## Author Lists:
 
 1. Albert
 2. Mochamad Kenny Gavinza
